@@ -1,0 +1,16 @@
+{
+  "name": "es6-modules",
+  "version": "1.0.0",
+  "description": "Using ES6 modules example",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamilsamaj@gmail.com",
+  "license": "ISC"
+}
